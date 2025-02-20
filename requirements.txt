@@ -1,0 +1,7 @@
+requests
+shodan
+python-nmap
+whois
+reportlab
+flask
+sqlmap
